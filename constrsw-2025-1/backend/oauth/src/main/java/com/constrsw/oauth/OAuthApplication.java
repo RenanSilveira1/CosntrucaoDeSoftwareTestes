@@ -1,0 +1,1 @@
+// Simulated OAuthApplication.java

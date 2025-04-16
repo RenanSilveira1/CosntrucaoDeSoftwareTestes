@@ -1,0 +1,1 @@
+// Simulated ErrorResponseDto.java
